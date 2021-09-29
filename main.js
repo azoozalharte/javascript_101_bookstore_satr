@@ -1,7 +1,7 @@
 let books = [[1,'Start with why','Simon Sinek',80.0, 13],[2,'But how do it know','J. Clark Scott',59.9, 22],[3,'Clean Code','Robert Cecil Martin',50.0, 5]]
 
 
-//stor the book index form find_book function
+//store the book index from find_book function
 let book_inde;
 
 
